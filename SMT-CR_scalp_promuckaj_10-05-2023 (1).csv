@@ -1,0 +1,41 @@
+Name,Value
+"__indicatorName","SMT-CR scalp [promuckaj]"
+"Use HeikinAshi for indicators",false
+"Source for H/L Points","High/Low"
+"Pivot Period",14
+"Show divergences on chart",true
+"RSI Length",12
+"Source","close"
+"Use Stoch RSI instead of classic RSI",true
+"K",4
+"D",3
+"Stochastic Length",12
+"RSI Source","close"
+"Show Smoothed HA on the chart",false
+"Length",8
+"Length 2",9
+"Show SSL channel on the chart",false
+"SSL Channel Length",35
+"High Volume Threshold",2.5
+"Medium Volume Threshold",1
+"Volume MA Length",20
+"Signal Smoothing Type","SMA"
+"Signal Smoothing Length",20
+"Show BoS on the chart",true
+"Take Profit",2.4
+"Stop loss",1.9
+"Trade Direction","all"
+"Show TP/SL lines",true
+"Extend trail lines for bars:",5
+"Strategy algo","Ver 2"
+"Longs",true
+"Shorts",true
+"Use trail",true
+"Trail SL steps (2-3)",3
+"Ladder trail",true
+"Continue with trail SL without main TP",false
+"Trail TP",true
+"Use candles close price to calc trail SL",true
+"Use wicks to calc and activate trail SL level (Work with ladder)",false
+"Use secure for pullback after trail level is reached",false
+"Pullback threshold %",50
